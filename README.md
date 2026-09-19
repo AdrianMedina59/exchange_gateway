@@ -1,0 +1,1 @@
+This place houses a C++ quantitative exchange gateway that speaks a binary wire protocol over UDP and TCP, replays the same session in simulation and in a live loop, then produces a report explaining every divergence bwtween the two with latency attributed hop by hop
